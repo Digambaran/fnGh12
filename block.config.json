@@ -11,7 +11,5 @@
   "build": "",
   "postPull": "npm i",
   "standAloneBlock": false,
-  "supportedAppblockVersions": [
-    "2.0.0"
-  ]
+  "supportedAppblockVersions": ["2.0.0"]
 }
